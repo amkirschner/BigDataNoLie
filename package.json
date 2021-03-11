@@ -1,0 +1,19 @@
+{
+  "name": "bigdatanolie",
+  "version": "1.0.0",
+  "description": "Codeathon repo 'I like big data and I cannot lie'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satvindersingh-nj/BigDataNoLie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satvindersingh-nj/BigDataNoLie/issues"
+  },
+  "homepage": "https://github.com/satvindersingh-nj/BigDataNoLie#readme"
+}
